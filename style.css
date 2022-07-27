@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter&family=Poppins:wght@100;400;700&display=swap');
+
+body {
+    font-family: 'Inter', sans-serif;
+    font-family: 'Poppins', sans-serif;
+}
+.cr_gap{
+    margin-bottom: 100px;
+}
+.bs-sizer{
+    width: 7rem;
+    height: 7rem;
+}
+.shadow-mera{
+    box-shadow: 9px 9px 21px 5px rgba(8,70,161,0.45);
+}
+.badg-start{
+    left:80%;
+    padding: 0.50em 0.80em;
+    font-size: 1em;
+}
